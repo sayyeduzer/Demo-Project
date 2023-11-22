@@ -1,3 +1,3 @@
 # Demo-Project
 <br>
-author: Sayyed Uzer
+author: Sayyed Uzer(Mgm College)
